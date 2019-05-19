@@ -1,0 +1,8 @@
+config.php
+
+images/*
+
+*.log
+.Trashes
+ehthumbs.db
+Thumbs.db
